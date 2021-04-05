@@ -3,6 +3,7 @@ A game made for NUS Orbital 2020, awarded Honorable Mention
 Godot 3.2.1 by Team GingerBreadmen
 
 DesignDoc: https://drive.google.com/file/d/1C0a5hoSD5U2Of7x-tIqtBKCLDEi4WAAL/view?usp=sharing (Slightly Outdated)
+
 Go on an adventure in the land of Cheruton! An handcrafted pixel art world where you meet new friends and fight dangerous enemies. Visit towns, explore dungeons and upgrade your items as beautiful chiptunes play in the background.  
 
 <p align = "center">
